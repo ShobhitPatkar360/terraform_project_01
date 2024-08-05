@@ -9,4 +9,8 @@
     public-key.pub
     terraform*
 
-3. hello
+3. get the access key and secret key. Create a terraform.tfvars file and provide those keys like
+    my_access_key = ""
+    my_secret_key = ""
+
+4. 
